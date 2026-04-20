@@ -35,7 +35,7 @@ This project analyzes customer behavior and predicts customer churn using machin
 | Model                | Accuracy |
 |---------------------|----------|
 | Logistic Regression | 80%      |
-| Random Forest       | 84%      |
+| Random Forest       | 84%      |(or your actual result)
 
 ---
 
